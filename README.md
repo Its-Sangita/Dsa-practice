@@ -1,2 +1,2 @@
 # Dsa-practice
-DSA practice solutions in Python — LeetCode problems
+Structured collection of Data Structures & Algorithms solutions in Python, including LeetCode problems, explanations, and optimized approaches for coding interviews and placement preparation.
