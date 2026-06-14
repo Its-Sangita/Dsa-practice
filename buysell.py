@@ -9,5 +9,4 @@ class Solution(object):
             else:
                 profit = price - min_price
                 max_profit = max(max_profit, profit)
-        
         return max_profit
